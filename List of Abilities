@@ -1,31 +1,3 @@
-Abilites:
-
-Without the knowledge of a skill, it won't appear in the list of Abilities
-
-Levels:
-0 - None
-1-10 Very Poor
-11-25 Poor
-26-55 Fair
-56-75 Good
-76-85 Very Good
-86-99 Excellent
-100 Master
-
-An Ability will be automatically trained depending on the action and the duration of it.
-
-If the action is based directly on the Ability, for example, leaning to drive. The Ability Driving will gain experience on a 100% rate.
-If an Ability is left unused for a large period of time it will begin to decay over time.
-An Ability can be trained as secondary to some actions, for example, cooking. The Ability won't be trained becouse the purpouse of the action is not to train the Ability, but to cook.
-
-The experience earned will be counted on Exp. points, all of them will be accumulated and reach a new level.
-
-The needs will have a direct effect on the obtention of Exp. points, if the player is tired, unhealthy, or hungry, won't learn as fast as if it is energized or feels well.
-Some perks like "Joker" or "Childish" come with already obtained Abilities, that will begin at certain levels, and will never go down.
-Some Abilities will only be able to be trained or obtained only if the player has already some experience in a more basic Ability. For example, Accounting won't be possible if Math isn't good enough.
-Some Abilities will help to train others, if the player has a certain level of Academics will be able to train faster on Math, Chemistry or Biology
-
-
 Baby
 First Years
 
@@ -82,7 +54,7 @@ Eigth Year
   Art
   Swimming
   Computing
-  Foreign languages
+  Foreign lenguages
   Personal Education
   Social Education
   Health education
@@ -109,7 +81,6 @@ Eigth Year
   Debate
   Drama
   Entrepreneurship
-  Moot Court
   Robotics 
   Journalism 
   Relaxation
@@ -146,7 +117,11 @@ Fifteenth Year
   Financial Planning
   First Aid
   Focus
-  Foreign Language
+  
+  
+  Aerobics
+  Dancing
+  Sign Language
   Future Thinking
   Futuristic
   Graphics
